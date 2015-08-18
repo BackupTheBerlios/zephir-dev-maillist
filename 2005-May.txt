@@ -1,0 +1,354 @@
+From bricefournier at free.fr  Fri May 13 12:07:13 2005
+From: bricefournier at free.fr (bricefournier at free.fr)
+Date: Fri, 13 May 2005 12:07:13 +0200
+Subject: [Zephir-dev] Test of Zephir Dev list - Please reply
+Message-ID: <1115978833.42847c51560e5@imp4-q.free.fr>
+
+Test
+
+Have you received my mail?
+
+This list contains for the moment 5 members :
+- Batmat
+- Vincou
+- Ludo
+- Greg
+- Bryce
+
+Please reply to this mail to be sure that you receive ML mail and have the
+rights to post to this list. If you have any problem contact me at
+bricefournier at free.fr
+
+Moreover I need to know if you are alive!! :D
+
+Thx,
+
+Bryce
+
+PS : Use english langague please to be sure that external people will understand
+our mails.
+PS2 : Batmat I have registered you to this ML because I remember that you sask
+me to do it (but I am not sure...). If you want to unsuscribe...
+
+
+From bmathus at free.fr  Fri May 13 12:48:18 2005
+From: bmathus at free.fr (Baptiste Mathus)
+Date: Fri, 13 May 2005 12:48:18 +0200
+Subject: [Zephir-dev] Test of Zephir Dev list - Please reply
+In-Reply-To: <1115978833.42847c51560e5@imp4-q.free.fr>
+References: <1115978833.42847c51560e5@imp4-q.free.fr>
+Message-ID: <1115981298.428485f23060a@imp5-q.free.fr>
+
+Selon bricefournier at free.fr:
+
+> Test
+>
+> Have you received my mail?
+Yeaaaaaaaaaaaaaah.
+>
+> This list contains for the moment 5 members :
+> - Batmat
+> - Vincou
+> - Ludo
+> - Greg
+> - Bryce
+>
+> Please reply to this mail to be sure that you receive ML mail and have the
+> rights to post to this list. If you have any problem contact me at
+> bricefournier at free.fr
+That's not gonna be easy to get an answer from Ludo :)
+>
+> Moreover I need to know if you are alive!! :D
+>
+> Thx,
+>
+> Bryce
+>
+> PS : Use english langague please to be sure that external people will
+> understand
+> our mails.
+> PS2 : Batmat I have registered you to this ML because I remember that you
+> sask
+> me to do it (but I am not sure...). If you want to unsuscribe...
+> _______________________________________________
+> Zephir-dev mailing list
+> Zephir-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/zephir-dev
+>
+
+
+--
+Baptiste <Batmat> Mathus
+BMathus at Free point fr
+http://www.batmat.net
+---------
+Si chacun de nous a une id?e et que nous les partageons, nous
+repartirons tous les deux avec deux id?es... C'est ?a le Libre.
+
+
+From bricefournier at free.Fr  Fri May 20 00:16:55 2005
+From: bricefournier at free.Fr (bryce)
+Date: Fri, 20 May 2005 00:16:55 +0200
+Subject: [Zephir-dev] List of remaining tasks for development
+Message-ID: <428D1057.8020307@free.Fr>
+
+Hi geeks,
+
+Have you taken a look to the application and the remaining tasks to do?
+
+I put the list that we had at end of school (only UI side) on the wiki :
+http://openfacts.berlios.de/index-en.phtml?title=Tasks_to_do
+
+Please let me know if you
+- have looked,
+- will look (when... about, not a fix date don't worry!)
+- won't be able to look
+
+Moreover, Ludo you told me that you cannot commit the server for the 
+moment because there are too much errors.
+Do you know when you'll be able to post a clean version ?
+Or is it possible to have an intermediate version if someone wants to 
+develop?
+
+
+I don't force and won't force any body to work ( I have already a lot of 
+difficulty to find time for ZephIR project myself ;) ),
+I want just to know if you do something or not in order to not wait you 
+for nothing. It is just for other members because we are 6 so it is 
+needed to give a status of what we can do and cannot do in order to 
+block nobody.
+I don't want you to see me as a tyran :D   Each one does what he can 
+when he can, and nothing if he can do anything, it doesn't matter, we 
+have all a lot of things to do.
+But the only thing needed, is to answer to mails and give a status of 
+your situation if you can't work on ZephIR or have time to work on...
+
+I think that  you understand what I mean (I am not sure to be really 
+clear :D )
+
+So wait for your answer about the list of tasks to discuss on skype about
+and wait for your answer Ludo about the repository.
+
+See U geeks ;)
+Bryce
+
+
+
+
+From ludovic.lelion at club-internet.fr  Fri May 20 08:21:33 2005
+From: ludovic.lelion at club-internet.fr (ludo)
+Date: Fri, 20 May 2005 08:21:33 +0200
+Subject: [Zephir-dev] List of remaining tasks for development
+In-Reply-To: <428D1057.8020307@free.Fr>
+References: <428D1057.8020307@free.Fr>
+Message-ID: <428D81ED.9070409@club-internet.fr>
+
+Yop everybody
+
+I did lot of modification on the server and on the client UI. But there 
+are still lot of problems, the planning is no more working.
+I suggest to have a discussion on the remaining work to do, and the bugs 
+I am dealing with.
+
+If everybody is free tonight, we could maybe discuss about it.
+My login on skype is boucher93500
+
+Have a nice day
+Ludo
+
+
+From ludovic.lelion at club-internet.fr  Fri May 20 08:21:33 2005
+From: ludovic.lelion at club-internet.fr (ludo)
+Date: Fri, 20 May 2005 08:21:33 +0200
+Subject: [Zephir-dev] List of remaining tasks for development
+In-Reply-To: <428D1057.8020307@free.Fr>
+References: <428D1057.8020307@free.Fr>
+Message-ID: <428D81ED.9070409@club-internet.fr>
+
+Yop everybody
+
+I did lot of modification on the server and on the client UI. But there 
+are still lot of problems, the planning is no more working.
+I suggest to have a discussion on the remaining work to do, and the bugs 
+I am dealing with.
+
+If everybody is free tonight, we could maybe discuss about it.
+My login on skype is boucher93500
+
+Have a nice day
+Ludo
+
+
+From bricefournier at free.fr  Fri May 20 11:39:39 2005
+From: bricefournier at free.fr (bricefournier at free.fr)
+Date: Fri, 20 May 2005 11:39:39 +0200
+Subject: [Zephir-dev] List of remaining tasks for development
+In-Reply-To: <428D81ED.9070409@club-internet.fr>
+References: <428D1057.8020307@free.Fr> <428D81ED.9070409@club-internet.fr>
+Message-ID: <1116581979.428db05b839b2@imp4-q.free.fr>
+
+Yep
+
+I can be there tonight only between 19h30 and 20h30. So if we do it, we need
+that everybody will be present at 19h30.
+
+Confirm if you can or can't be present tonight.
+
+Else I propose tomorrow at 13h00 or 13h30.
+
+I don't have for the moment skype account. Come on msn please at 19h25 to share
+your skype login name.
+
+++ gentlemen
+Bryce
+
+PS : If we won't have confirmation from all before 17h30 PM, today call will be
+canceled. After this time, I won't be able to check my mails.
+
+Selon ludo <ludovic.lelion at club-internet.fr>:
+
+> Yop everybody
+>
+> I did lot of modification on the server and on the client UI. But there
+> are still lot of problems, the planning is no more working.
+> I suggest to have a discussion on the remaining work to do, and the bugs
+> I am dealing with.
+>
+> If everybody is free tonight, we could maybe discuss about it.
+> My login on skype is boucher93500
+>
+> Have a nice day
+> Ludo
+> _______________________________________________
+> Zephir-dev mailing list
+> Zephir-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/zephir-dev
+>
+
+
+
+
+From vincent at genezys.net  Fri May 20 12:03:53 2005
+From: vincent at genezys.net (Vincent)
+Date: Fri, 20 May 2005 12:03:53 +0200
+Subject: [Zephir-dev] List of remaining tasks for development
+In-Reply-To: <1116581979.428db05b839b2@imp4-q.free.fr>
+References: <428D1057.8020307@free.Fr> <428D81ED.9070409@club-internet.fr> <1116581979.428db05b839b2@imp4-q.free.fr>
+Message-ID: <580EC4D0-A74D-424C-9B66-922C3B346A84@genezys.net>
+
+Ok for me.
+
+Le 20 mai 2005 ? 11:39, bricefournier at free.fr a ?crit :
+
+> I can be there tonight only between 19h30 and 20h30. So if we do  
+> it, we need
+> that everybody will be present at 19h30.
+>
+> Confirm if you can or can't be present tonight.
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/zephir-dev/attachments/20050520/e24cd47b/attachment.html>
+
+From vincent at genezys.net  Fri May 20 13:01:29 2005
+From: vincent at genezys.net (Vincent)
+Date: Fri, 20 May 2005 13:01:29 +0200
+Subject: [Zephir-dev] List of remaining tasks for development
+In-Reply-To: <580EC4D0-A74D-424C-9B66-922C3B346A84@genezys.net>
+References: <428D1057.8020307@free.Fr> <428D81ED.9070409@club-internet.fr> <1116581979.428db05b839b2@imp4-q.free.fr> <580EC4D0-A74D-424C-9B66-922C3B346A84@genezys.net>
+Message-ID: <73E00339-8141-46D1-AE02-73CC92256254@genezys.net>
+
+My Skype login is anubisfr
+
+PS: Skype exists for every OSes, go to skype.com
+
+Le 20 mai 2005 ? 12:03, Vincent a ?crit :
+
+> Ok for me.
+>
+> Le 20 mai 2005 ? 11:39, bricefournier at free.fr a ?crit :
+>
+>> I can be there tonight only between 19h30 and 20h30. So if we do  
+>> it, we need
+>> that everybody will be present at 19h30.
+>>
+>> Confirm if you can or can't be present tonight.
+>
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/zephir-dev/attachments/20050520/ec646837/attachment.html>
+
+From bricefournier at free.fr  Fri May 20 13:58:33 2005
+From: bricefournier at free.fr (bricefournier at free.fr)
+Date: Fri, 20 May 2005 13:58:33 +0200
+Subject: [Zephir-dev] List of remaining tasks for development
+In-Reply-To: <73E00339-8141-46D1-AE02-73CC92256254@genezys.net>
+References: <428D1057.8020307@free.Fr> <428D81ED.9070409@club-internet.fr> <1116581979.428db05b839b2@imp4-q.free.fr> <580EC4D0-A74D-424C-9B66-922C3B346A84@genezys.net> <73E00339-8141-46D1-AE02-73CC92256254@genezys.net>
+Message-ID: <1116590313.428dd0e9c06fc@imp4-q.free.fr>
+
+Perfect!!
+
+So See U tonight at 19h30!!
+
+Please be in time else I won't stay with you for long time...
+
+
+
+Selon Vincent <vincent at genezys.net>:
+
+> My Skype login is anubisfr
+>
+> PS: Skype exists for every OSes, go to skype.com
+>
+> Le 20 mai 2005 ? 12:03, Vincent a ?crit :
+>
+> > Ok for me.
+> >
+> > Le 20 mai 2005 ? 11:39, bricefournier at free.fr a ?crit :
+> >
+> >> I can be there tonight only between 19h30 and 20h30. So if we do
+> >> it, we need
+> >> that everybody will be present at 19h30.
+> >>
+> >> Confirm if you can or can't be present tonight.
+> >
+>
+>
+
+
+
+
+From vincent at genezys.net  Thu May 26 22:12:33 2005
+From: vincent at genezys.net (Vincent)
+Date: Thu, 26 May 2005 22:12:33 +0200
+Subject: [Zephir-dev] Zephir Logo
+Message-ID: <12A8F789-F0B9-426C-9FD3-11D0EE7BECF9@genezys.net>
+
+As everybody knows... not, I'm working on a new logo for ZephIR.
+
+I am trying to use Illustrator to produce something, and this is my  
+first result. Please add comments about what you like, dislike, what  
+should be kept and what should be changed so I can continue the work.
+
+-- 
+Vincent
+
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Work 1.png
+Type: application/applefile
+Size: 73663 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/zephir-dev/attachments/20050526/b0719dfb/attachment.bin>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Work 1.png
+Type: image/png
+Size: 75785 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/zephir-dev/attachments/20050526/b0719dfb/attachment.png>
+-------------- next part --------------
+
+
